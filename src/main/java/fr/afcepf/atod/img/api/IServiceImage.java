@@ -1,6 +1,5 @@
 package fr.afcepf.atod.img.api;
 
-import java.util.List;
 import java.util.Map;
 
 import javax.jws.WebMethod;
